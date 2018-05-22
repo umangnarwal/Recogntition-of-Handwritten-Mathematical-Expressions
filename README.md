@@ -7,3 +7,9 @@ Machine Learning Project through Convolutional Neural Network
 * Meta files will be created after the training.
 * Run 'segment.py*space*input.jpg' command later after the training is done.
 * Sample working images are added along.
+
+ ![image](https://github.com/sick3lement/Recogntition-of-Handwritten-Mathematical-Expressions/blob/master/testing.jpg)
+
+ ![image](https://github.com/sick3lement/Recogntition-of-Handwritten-Mathematical-Expressions/blob/master/Screenshot%20(21).png)
+ ![image](https://github.com/sick3lement/Recogntition-of-Handwritten-Mathematical-Expressions/blob/master/Screenshot%20(22).png)
+
